@@ -3,7 +3,7 @@
 ## 📚 스터디 일지 📚
 <table>
   <tr>
-    <td align="center"><b>1회</b> (24/12/08 ~ )</td>
+    <td align="center"><b>1회</b> (24/12/15 ~ )</td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/105c07c7-2248-4a54-984b-cf41902d2638" width="200"></td>
